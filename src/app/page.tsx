@@ -1,6 +1,5 @@
 /* eslint-disable @typescript-eslint/no-require-imports */
-import Image from "next/image";
-import construction from "../../Under-Construction-Icon-PNG.png";
+
 import SVGComponent from "./tut";
 
 export default function Home() {
